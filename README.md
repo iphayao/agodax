@@ -1,2 +1,2 @@
-# agodax
-Agoda X - Agoda.com clone system
+# Agoda X 
+Agoda.com clone system
